@@ -4,7 +4,7 @@ def palindrome?(string)
 end
 
 # Приклади використання
-puts palindrome?("а роза упала на лапу Азора") # true
-puts palindrome?("Univer")                      # false
-puts palindrome?("101") # true
-puts palindrome?("топот") # true
+#puts palindrome?("а роза упала на лапу Азора") # true
+#puts palindrome?("Univer")                      # false
+#puts palindrome?("101") # true
+#puts palindrome?("топот") # true
